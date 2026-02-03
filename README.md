@@ -1,8 +1,16 @@
 # wifi-reset-linux
-One-command Wi-Fi reset for Linux
 
-## 💖 Support Development
+Fix common Linux Wi-Fi issues in one command.
 
-If this tool saved you time, you can support continued development here:
+## Fixes
+- Wi-Fi not turning ON
+- NetworkManager crashes
+- Airplane mode stuck
+- Adapter detected but no networks
 
-👉 https://vilsonthakare.gumroad.com/l/wifi-reset-linux
+## Supported
+Kali, Ubuntu, Debian, Arch
+
+## Run
+chmod +x wifi-reset.sh
+sudo ./wifi-reset.sh
